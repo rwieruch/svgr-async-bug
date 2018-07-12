@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xb="http://www.centigrade.de/xamlboard"
+x="0px" y="0px" width="48px" height="48px"  xml:space="preserve">
+<g id="Icon.Arrow.Circular.Clockwise" transform="translate(0.5,0.5)" >
+	<path fill="#000000" stroke="#000000" xb:uid="3ebab415-6cb8-4ac5-83fe-10a2cf9136da" d="M39.35,11.931L26.017,4 26.017,10 24.017,10C16.285,10 10.017,16.268 10.017,24 10.017,31.732 16.285,38 24.017,38L24.017,37.999C31.749,38 38.017,31.732 38.017,24 38.017,23.529 37.992,23.064 37.947,22.605L33.966,25.014C33.458,30.06,29.198,34,24.017,33.999L24.017,34C18.494,34 14.017,29.523 14.017,24 14.017,18.477 18.494,14 24.017,14 24.703,14 25.371,14.074 26.017,14.207L26.017,20z" />
+</g>
+</svg>
