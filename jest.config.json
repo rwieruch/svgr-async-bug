@@ -1,0 +1,6 @@
+{
+  "testRegex": "((\\.|/*.)(snapshot))\\.js?$",
+  "moduleNameMapper": {
+    "\\.svg": "@svgr/webpack"
+  }
+}

@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Icon from './Icon.Arrow.Circular.Clockwise.svg';
-
-const title = 'My Minimal React Webpack Babel Setup';
+import App from './App';
 
 ReactDOM.render(
-  <Icon />,
+  <App />,
   document.getElementById('app')
 );
 
