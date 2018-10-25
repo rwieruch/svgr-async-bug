@@ -1,5 +1,7 @@
 # svgr-async-bug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/svgr-async-bug.svg)](https://greenkeeper.io/)
+
 * `git clone git@github.com:rwieruch/svgr-async-bug.git`
 * `cd svgr-async-bug`
 * `npm install`
